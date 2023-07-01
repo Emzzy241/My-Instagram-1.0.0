@@ -1,3 +1,21 @@
+## Instagram Clone 1.0.0 with React
+
+#### Made my Mojiboye Emmanuel and credit to Ebenezerdon's Youtube Channel
+
+
+### Technologies Used
+* React
+* Vanilla Javascript
+* Git
+* Html
+* Css
+
+## Setup/Installation 
+* _Clone the repository with: git clone _REPO_NAME_
+* __INstall all the packages and dependencies I used with: npm install_
+* _Starting the React app on loacalhost3000 with: npm start_
+ 
+### For more details on the project, Here is the README from the React Team at Facebook
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
